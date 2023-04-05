@@ -1,1 +1,2 @@
-Hi, my name is Savindu Senanayake and I am an undergraduate studying software engineering 📚. I am a passionate entrepreneur 💡, programmer 💻, and avid learner 🧠. In my free time, I enjoy coding 💻, traveling 🌍, and trying new drinks and foods (especially coffee ☕️ and tea 🍵). I am also a freelancer 💼, always looking for new opportunities to use my skills and grow as a developer 🚀. I am excited to be a part of the open source community on GitHub 🤝 and contribute to interesting projects 🔥.
+
+![savindu2001](https://user-images.githubusercontent.com/76149334/230135518-21cb77c8-fa5e-4559-b996-5da8ad5f8dc1.png)
