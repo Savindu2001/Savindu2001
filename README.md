@@ -64,7 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sa/Sa/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
