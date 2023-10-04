@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My name is Savindu Senanayake and I'm a software engineering student from Plymouth University in the UK.</p>
+<p align="left">My name is Savindu Senanayake and I'm an Undergraduate</p>
 
 
 ###
