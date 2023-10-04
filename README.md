@@ -7,13 +7,6 @@
 
 <p align="left">My name is Savindu Senanayake and I'm a software engineering student from Plymouth University in the UK.</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">👋 Hey there, I'm Savindu Senanayake, an aspiring software engineer 💻 currently pursuing my undergraduate degree in Software Engineering at Plymouth University in the UK 🎓. I am deeply passionate about software development, particularly in areas such as mobile app development 📱, web design 🌐, and software engineering 🖥️. My ultimate goal is to become an entrepreneur 💼 by developing and launching my own software products 🚀.<br><br>I am currently working hard to hone my skills in various programming languages and frameworks 🤓, constantly seeking out new challenges and opportunities to learn 📚. I am a firm believer in the power of open-source software and actively contribute to a number of community projects on Github 🌟. I'm excited to see where my journey in software engineering takes me 🚀, and I'm always looking to connect.</p>
 
 ###
 
