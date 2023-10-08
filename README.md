@@ -1,11 +1,11 @@
 
 ![savindu2001](https://user-images.githubusercontent.com/76149334/230135518-21cb77c8-fa5e-4559-b996-5da8ad5f8dc1.png)
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Savindu Senanayake and I'm an Undergraduate</p>
+<p align="center">My name is Savindu Senanayake and I'm an Undergraduate</p>
 
 
 ###
