@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
@@ -43,19 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
 
-###
 
-<h2 align="left">My Spotify Track Now.</h2>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31xmlztc6bvzfiqc3grbxrcsgbsu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 
 ###
@@ -68,20 +56,15 @@
   <a href="https://www.linkedin.com/in/savindu-senanayake-8878841b3/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/Savindusenanay1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
   <a href="https://discordapp.com/users/Ozunu#0348" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/21574591/savindu-senanayake" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
+  
 </div>
 
 ###
 
-<h2 align="left">My Profile Views Counter.</h2>
+<h2 align="center">My Profile Views Counter.</h2>
 
 ###
 
