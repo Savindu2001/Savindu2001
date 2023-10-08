@@ -48,11 +48,11 @@
 
 ###
 
-<h2 align="left">Connect With Me < Discord is Better /></h2>
+<h2 align="center">Connect With Me < Discord is Better /></h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/savindu-senanayake-8878841b3/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -72,6 +72,9 @@
   <img src="https://profile-counter.glitch.me/Sa/count.svg?"  />
 </div>
 
+###
+###
+###
 ###
 
   ## 💰 You Can Help Me By Donating
