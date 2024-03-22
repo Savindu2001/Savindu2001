@@ -6,21 +6,14 @@
 ###
 
 
-<h2 align="center">You are <img src="https://profile-counter.glitch.me/Sa/count.svg?"  /> Visitor in My profile. Thank You! </h2>
+<h2 align="center">You are ---- <img src="https://profile-counter.glitch.me/Sa/count.svg?"  /> ----Visitor in My profile. Thank You! </h2>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Sa/count.svg?"  />
-</div>
-
-###
-###
-###
 ###
 
   ## 💰 You Can Help Me By Donating
-  <div align="center">
+
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/savindusenz)
-</div>
+
 
